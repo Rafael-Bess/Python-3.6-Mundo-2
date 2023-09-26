@@ -20,3 +20,4 @@ while True:
 print(f'Existem {cont1} pessoas maiores de 18')
 print(f'Existem {cont2} Homens cadastrados')
 print(f'Existem {cont3} Mulher com menos de 20 anos')
+
