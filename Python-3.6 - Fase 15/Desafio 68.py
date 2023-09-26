@@ -20,3 +20,4 @@ while True:
         print(f'O computador escolheu {computador} e você {num}')
         print(f'Game Over! Você ganhou {cont} seguidas')
         break
+
