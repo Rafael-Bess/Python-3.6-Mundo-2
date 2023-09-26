@@ -15,3 +15,4 @@ while True:
     if continua == 'N':
         print(f'Fim do programa. preço total {total} e o produto mais barato comprado foi {nomebarato}')
         break
+
