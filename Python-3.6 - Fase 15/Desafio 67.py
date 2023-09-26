@@ -10,3 +10,4 @@ while True:
     if numero < 0:
         print('Fim do programa volte sempre! ')
         break
+
